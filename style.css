@@ -1,0 +1,91 @@
+body{
+  font-family: Helvetica, Arial;
+}
+
+#header{
+  padding: 30px;
+  text-align: center;
+}
+#header img{
+  height: 50px;
+   
+}
+#about{
+  background-color: #2c86c7;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+h1, h2 {
+  font-weight: normal;
+}
+.inner{
+  width: 1020px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#what-image{
+  float: left;
+  width: 510px;
+  padding: 30px 0;
+}
+#what-image img{
+  width: 400px;
+}
+#what-text{
+  float: left;
+  width: 510px;
+  padding: 40px 0;
+  line-height: 140%;
+}
+.clear{
+  clear: left;
+}
+#what-we-do{
+  margin: 20px;
+  background-color: #f6fbff;
+  color: #215e8b;
+}
+#services{
+background-color:  #e8f5ff;
+color:#215e8b;
+padding : 50px 0;
+}
+.services-box{
+float: left;
+background-color: white;
+padding: 40px;
+margin: 20px 10px;
+text-align: center;
+width: 155px;
+border-radius: 10px;
+}
+#contact{
+   background-color: #2c86c7;
+   padding: 30px;
+   color: white;
+   text-align: center;
+   line-height: 160%;
+ }
+#contact a{
+  color: white;
+  text-decoration: none;
+  margin: 0;
+
+}
+#contact a:hover{
+  text-decoration: underline;
+}
+#phone{
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 20px !important; 
+}
+hr{
+  border: 0;
+  background-color:  #5ca5da;
+  height: 1px;
+  margin: 60px auto;
+  width: 600px;
+
+}
